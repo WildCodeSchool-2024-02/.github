@@ -8,5 +8,5 @@ L'objectif de cette organisation est de centraliser les projets des étudiants d
 
 ## Rappel
 
-La syntaxe pour la création d'un repoqitory est la suivante : [Language]-[Campus]-[Team]-[Project]
-Ex : JS-RemoteFR-SACOD-P2-Moby-Dick
+La syntaxe pour la création d'un repoqitory est la suivante : **[Language]-[Campus]-[Team]-[Project]**
+> Ex : **JS-RemoteFR-SACOD-P2-Moby-Dick**
